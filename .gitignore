@@ -1,0 +1,18 @@
+# Rust
+target/
+
+# C++ build output
+build/
+cmake-build-*/
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+
+# Editor/OS junk
+.DS_Store
+.vscode/
+.idea/

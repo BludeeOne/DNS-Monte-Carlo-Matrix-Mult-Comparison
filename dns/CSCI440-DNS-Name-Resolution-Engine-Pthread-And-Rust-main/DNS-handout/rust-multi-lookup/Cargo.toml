@@ -1,0 +1,11 @@
+[package]
+name = "multi-lookup"
+version = "0.1.0"
+authors = ["Erik Flores-Siemsen <erik.siemsen@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+dns-lookup = "1.0.4"
+
